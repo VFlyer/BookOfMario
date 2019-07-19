@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 3095482652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb666171a7d30871765e607e5c07c8eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d44f1287b422f8bf445b966441aed77
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -1675560866, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: 2144496390, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: -119419473, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: -706292897, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: -1005838349, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: 1702003387, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: -381104716, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6077fdaf0a38ecd40a0d533d9d9ad42c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BookOfMarioModule.prefab
+- Assets/Materials/Font.mat
+- Assets/Sprites/mario.png
+- Assets/Sprites/grubba.png
+- Assets/Sprites/shroom.png
+- Assets/Super [Mario] Script 2 Demo 1-001.ttf
+- Assets/SFX/battlestart.ogg
+- Assets/Sprites/ultrashroom.png
+- Assets/Materials/ModelComponentMat.mat
+- Assets/Sprites/bob.png
+- Assets/Sprites/Goombell.png
+- Assets/Sprites/yoshi.png
+- Assets/SFX/battleend.ogg
+- Assets/Sprites/flavio.png
+- Assets/Materials/Material.mat
+- Assets/Sprites/Carbon.png
+- Assets/Sprites/belda.png
+- Assets/Materials/defaultMat.mat
+- Assets/smb.ttf
+- Assets/Sprites/thwomp.png
+- Assets/Materials/MatBackground.mat
+- Assets/Sprites/Browser.png
+- Assets/Sprites/PrincePeach.png
+- Assets/Sprites/supershroom.png
+- Assets/Materials/ScreenBlack.mat
+- Assets/Sprites/mrkrump.png
+- Assets/Sprites/make.png
+- Assets/Materials/ButtonGray.mat
+Dependencies: []
